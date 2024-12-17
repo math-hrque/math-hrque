@@ -26,10 +26,46 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=math-hrque&theme=tokyonight&hide_border=true" width="50%">
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=math-hrque&theme=tokyonight&hide_border=true" 
+      media="(prefers-color-scheme: dark)" 
+      width="50%">
+    <source 
+      srcset="https://streak-stats.demolab.com?user=math-hrque&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" 
+      width="50%">
+    <img 
+      src="https://streak-stats.demolab.com?user=math-hrque&theme=default&hide_border=true" 
+      width="50%">
+  </picture>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=math-hrque&show_icons=true&theme=tokyonight" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-hrque&layout=compact&theme=tokyonight" width="37.95%">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=math-hrque&show_icons=true&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" 
+      width="50%">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=math-hrque&show_icons=true&theme=default" 
+      media="(prefers-color-scheme: light)" 
+      width="50%">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=math-hrque&show_icons=true&theme=default" 
+      width="50%">
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=math-hrque&layout=compact&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" 
+      width="37.95%">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=math-hrque&layout=compact&theme=default" 
+      media="(prefers-color-scheme: light)" 
+      width="37.95%">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-hrque&layout=compact&theme=default" 
+      width="37.95%">
+  </picture>
   <br>
 </p>
 <p align="center">
