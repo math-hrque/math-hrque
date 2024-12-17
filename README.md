@@ -27,17 +27,17 @@
 ## GitHub Stats
 <p align="center">
   <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com?user=math-hrque&theme=tokyonight&hide_border=true" 
-      media="(prefers-color-scheme: dark)" 
-      width="50%">
-    <source 
-      srcset="https://streak-stats.demolab.com?user=math-hrque&theme=default&hide_border=true" 
-      media="(prefers-color-scheme: light)" 
-      width="50%">
-    <img 
-      src="https://streak-stats.demolab.com?user=math-hrque&theme=default&hide_border=true" 
-      width="50%">
+  <source 
+    srcset="https://streak-stats.demolab.com?user=math-hrque&show_icons=true&theme=tokyonight&v=1" 
+    media="(prefers-color-scheme: dark)" 
+    width="50%">
+  <source 
+    srcset="https://streak-stats.demolab.com?user=math-hrque&show_icons=true&theme=default&v=1" 
+    media="(prefers-color-scheme: light)" 
+    width="50%">
+  <img 
+    src="https://streak-stats.demolab.com?user=math-hrque&show_icons=true&theme=default&v=1" 
+    width="50%">
   </picture>
   <br>
   <picture>
