@@ -27,51 +27,45 @@
 ## GitHub Stats
 <p align="center">
   <picture>
-  <source 
-    srcset="https://streak-stats.demolab.com?user=math-hrque&show_icons=true&theme=tokyonight&v=1" 
-    media="(prefers-color-scheme: dark)" 
-    width="50%">
-  <source 
-    srcset="https://streak-stats.demolab.com?user=math-hrque&show_icons=true&theme=default&v=1" 
-    media="(prefers-color-scheme: light)" 
-    width="50%">
-  <img 
-    src="https://streak-stats.demolab.com?user=math-hrque&show_icons=true&theme=default&v=1" 
-    width="50%">
-  </picture>
-  <br>
-  <picture>
     <source 
+      media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api?username=math-hrque&show_icons=true&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" 
-      width="50%">
+      width="56%">
     <source 
+      media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api?username=math-hrque&show_icons=true&theme=default" 
-      media="(prefers-color-scheme: light)" 
-      width="50%">
+      width="56%">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=math-hrque&show_icons=true&theme=default" 
-      width="50%">
+      width="56%">
   </picture>
   <picture>
     <source 
+      media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=math-hrque&layout=compact&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" 
-      width="37.95%">
+      width="42.5%">
     <source 
+      media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=math-hrque&layout=compact&theme=default" 
-      media="(prefers-color-scheme: light)" 
-      width="37.95%">
+      width="42.5%">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-hrque&layout=compact&theme=default" 
-      width="37.95%">
+      width="42.5%">
   </picture>
   <br>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/math-hrque/math-hrque/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/math-hrque/math-hrque/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://github.com/math-hrque/math-hrque/blob/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github.com/math-hrque/math-hrque/blob/output/github-contribution-grid-snake-dark.svg"
+      width="100%">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github.com/math-hrque/math-hrque/blob/output/github-contribution-grid-snake.svg"
+      width="100%">
+    <img
+      src="https://github.com/math-hrque/math-hrque/blob/output/github-contribution-grid-snake.svg" 
+      width="100%">
   </picture>
 </p>
