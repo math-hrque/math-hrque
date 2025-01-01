@@ -9,7 +9,7 @@
 </p> 
 
 ## My Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=java,spring,maven,hibernate,rabbitmq,angular,flutter,dart,react,nodejs,docker,typescript,javascript,html,css,bootstrap,c,php,postgres,mysql,mongodb,redis,npm,bitbucket,git)](#)
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,maven,hibernate,kafka,rabbitmq,angular,flutter,dart,react,nodejs,docker,typescript,javascript,html,css,bootstrap,c,php,postgres,mysql,mongodb,redis,npm,bitbucket,git)](#)
 
 <p  align="center">
   <img src="https://github.com/math-hrque/math-hrque/blob/main/assets/hr.gif">
