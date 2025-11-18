@@ -1,15 +1,18 @@
 ## About Me
-- 💻 **Full Stack Developer** with expertise in **Java**, **Spring**, **microservices**, and modern web & mobile technologies.
-- 🎓 **Graduated** in **Analysis and Systems Development** at **Universidade Federal do Paraná (UFPR)**.
-- 🧠 Passionate about **problem-solving**, **continuous learning**, and building **efficient & innovative solutions**. 
-- 🚀 Always seeking **new challenges** to grow as a developer and contribute to the **tech community**.
+- 💻 Full Stack Developer specialized in **Java**, **Spring Boot**, and **microservices architectures**.  
+- 🔍 Experience building **REST APIs**, asynchronous integrations, and event-driven systems using **Kafka** and **RabbitMQ**.  
+- 🌐 Also experienced with modern frontend frameworks such as **React**, **Angular**, and **Flutter** to deliver scalable and high-performance applications.  
+- 🎓 Graduated in **Analysis and Systems Development** at **Federal University of Paraná (UFPR)**.  
+- 🧰 Knowledgeable in modern development practices such as **Clean Architecture**, **SOLID principles**, **DDD concepts**, and **continuous integration workflows**.
 
-<p  align="center">
+<p align="center">
   <img src="https://github.com/math-hrque/math-hrque/blob/main/assets/hr.gif">
 </p> 
 
 ## My Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=java,spring,maven,hibernate,kafka,rabbitmq,angular,flutter,dart,react,nodejs,docker,typescript,javascript,html,css,bootstrap,c,php,postgres,mysql,mongodb,redis,npm,bitbucket,git)](#)
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,maven,hibernate,kafka,rabbitmq,docker,react,angular,typescript,javascript,flutter,dart,html,css,bootstrap,postgres,mysql,mongodb,redis,git,bitbucket,npm,postman,nodejs,c,php)](#)
+
+**Main expertise:** Java · Spring Boot · Microservices · Kafka · RabbitMQ · React · Angular · TypeScript · SQL/NoSQL
 
 <p  align="center">
   <img src="https://github.com/math-hrque/math-hrque/blob/main/assets/hr.gif">
