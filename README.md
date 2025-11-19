@@ -27,6 +27,14 @@
   <img src="https://github.com/math-hrque/math-hrque/blob/main/assets/hr.gif">
 </p> 
 
+## Resume  
+- 🇺🇸 **English Resume (PDF)**: [View Resume](https://github.com/math-hrque/math-hrque/blob/main/resume/Matheus-Henrique-Miranda-Full-Stack-Developer-Resume-2025.pdf)
+- 🇧🇷 **Portuguese Resume (PDF)**: [Ver Currículo](https://github.com/math-hrque/math-hrque/blob/main/resume/Matheus-Henrique-Miranda-Curriculo-2025.pdf)
+
+<p align="center">
+  <img src="https://github.com/math-hrque/math-hrque/blob/main/assets/hr.gif">
+</p>
+
 ## GitHub Stats
 <p align="center">
   <picture>
